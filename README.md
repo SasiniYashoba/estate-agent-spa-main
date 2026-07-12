@@ -31,11 +31,7 @@ npm install
 npm run dev      # start the app on http://localhost:5173
 npm test         # run unit tests
 npm run build    # production build
-```
 
-## Structure
-
-```
 src/
   assets/               property photos and floor plans
   components/           small React components
@@ -48,4 +44,3 @@ src/
   App.css               component styles + media queries
   index.css             base styles / design tokens
   main.jsx              React entry point
-```
